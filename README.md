@@ -1,6 +1,6 @@
 # Task3
 Functionalities :
-1. Filtering people by search bar using Keywords (Search only about positions like PG,UG,MS).
+1. Filtering people by search bar using Keywords (Search only about positions like PG,UG,MS,etc).
 2. Filtering from Suggestion box ( click on options required, user can select  any number of options people are filtered according to it ).
 3. Responsive website which adjusts according to the device using the media queries
    
