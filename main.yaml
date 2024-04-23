@@ -1,0 +1,58 @@
+- name: John Doe
+  email: john@example.com
+  position: PhD
+  photo: 'https://alleninstitute.org/wp-content/uploads/2022/12/Rui_Costa_A_WB-Square.jpg'
+
+- name: Jane Smith
+  email: jane@example.com
+  position: MS
+  photo: 'https://alleninstitute.org/wp-content/uploads/2023/11/Helen_Protheroe_SQUARE.jpg'
+
+- name: Alice Johnson
+  email: alice@example.com
+  position: UG
+  photo: 'https://alleninstitute.org/wp-content/uploads/2022/12/rob_piercy-web.jpg'
+- name: Julie spencer
+  email: john@example.com
+  position: MSC
+  photo: 'https://alleninstitute.org/wp-content/uploads/2022/12/Hongkui_Zeng_SQUARE.jpg'
+
+- name: Margrot
+  email: jane@example.com
+  position: MS
+  photo: 'https://alleninstitute.org/wp-content/uploads/2022/12/Marjorie_Thomas_SQUARE-e1675814604888.jpg'
+
+- name: Green Johnson
+  email: alice@example.com
+  position: UG
+  photo: 'https://alleninstitute.org/wp-content/uploads/2023/01/james_harvey_square_1-1.jpg'
+  
+- name: Harry Tector
+  email: john@example.com
+  position: PhD
+  photo: 'https://alleninstitute.org/wp-content/uploads/2022/12/aldan_beaubien_web.jpg'
+
+- name: Aravind 
+  email: jane@example.com
+  position: MS
+  photo: 'https://alleninstitute.org/wp-content/uploads/2022/12/yousef_aggoune_web.jpg'
+
+- name: Mitchell jonson
+  email: alice@example.com
+  position: MA
+  photo: 'https://alleninstitute.org/wp-content/uploads/2022/12/paulwohnoutka.jpg'
+- name: Josh inglish
+  email: john@example.com
+  position: PhD
+  photo: 'https://alleninstitute.org/wp-content/uploads/2022/12/nick_hawley-web.jpg'
+
+- name: Steve Smith
+  email: jane@example.com
+  position: MBA
+  photo: 'https://alleninstitute.org/wp-content/uploads/2024/04/Sam_Al-Khoury_SQ.jpg'
+
+- name: Zane jos
+  email: alice@example.com
+  position: MBA
+  photo: 'https://alleninstitute.org/wp-content/uploads/2023/04/Meg-McClellan-2022-headshot.jpg'
+  
