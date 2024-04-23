@@ -48,7 +48,7 @@
   const selectedPositionsContainer = document.getElementById('selected-positions');
   const cardsContainer = document.getElementById('cards');
 
-  // Define the URL of the YAML file served by the live server
+  // URL of the YAML file given
   fetch('main.yaml')
     .then(response => response.text())
     .then(yamlString => {
@@ -57,7 +57,7 @@
       const yamlObject = jsyaml.load(yamlString);
       console.log(yamlObject)
 
-// Process YAML object
+// assign YAML object
       const positionsData = yamlObject;
 
       // Function to create and display all cards on page load
