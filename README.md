@@ -7,6 +7,7 @@ Functionalities :
 
 Note :
 1. JS-yaml library is used to parse the yaml data into javascript object
-2. Bootstrap is used to create the search bar 
-3. Font  styles are imported from cdn
-4. As fetching the yaml data is included ,CORS issue will be arised,so use the browser without security fuctions using chrome.exe --user-data-dir="C://chrome-dev-disabled-security" --disable-web-security --disable-site-isolation-trials
+2. Data is fetched from the yaml file.
+3. Bootstrap is used to create the search bar 
+4. Font  styles are imported from cdn
+5. As fetching the yaml data is included ,CORS issue will be arised,so use the browser without security fuctions using chrome.exe --user-data-dir="C://chrome-dev-disabled-security" --disable-web-security --disable-site-isolation-trials
