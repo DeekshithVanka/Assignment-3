@@ -76,7 +76,7 @@
         border: 1px solid white;
         padding: 10px;
       margin: 10px;
-      width: calc(25% - 20px); /* 4 cards in a row */
+      width: calc(25% - 20px); /* Four cards in a row for laptops */
       display: inline-flex; /* Use flexbox */
       flex-direction: column; /* Align items vertically */
       align-items: center; /* Center items horizontally */
@@ -121,4 +121,22 @@ border-bottom: 3px solid black;
 p{ 
   font-family: 'Montserrat', sans-serif;
   font-weight: 800;
+}
+
+@media (max-width: 1200px) {
+    .card {
+        width: calc(33.33% - 20px); /* Three cards in a row for medium-sized devices */
+    }
+}
+
+@media (max-width: 992px) {
+    .card {
+        width: calc(50% - 20px); /* Two cards in a row for tablets */
+    }
+}
+
+@media (max-width: 576px) {
+    .card {
+        width: calc(100% - 20px); /* Single card in a row for small-sized devices */
+    }
 }
